@@ -1,0 +1,14 @@
+C:\ŁUKASZ\Programowanie\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\ŁUKASZ\Programowanie\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+C:\ŁUKASZ\Programowanie\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\ŁUKASZ\Programowanie\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
+C:\ŁUKASZ\Programowanie\WeatherApp\WeatherApp\obj\Debug\MainWindow.g.cs
+C:\ŁUKASZ\Programowanie\WeatherApp\WeatherApp\obj\Debug\App.g.cs
+C:\ŁUKASZ\Programowanie\WeatherApp\WeatherApp\obj\Debug\WeatherApp_MarkupCompile.cache
+C:\ŁUKASZ\Programowanie\WeatherApp\WeatherApp\obj\Debug\WeatherApp_MarkupCompile.lref
+C:\ŁUKASZ\Programowanie\WeatherApp\WeatherApp\obj\Debug\MainWindow.baml
+C:\ŁUKASZ\Programowanie\WeatherApp\WeatherApp\obj\Debug\WeatherApp.g.resources
+C:\ŁUKASZ\Programowanie\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\ŁUKASZ\Programowanie\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.Cache
+C:\ŁUKASZ\Programowanie\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+C:\ŁUKASZ\Programowanie\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
